@@ -109,7 +109,7 @@ void main() {
               color: Color.fromARGB(255, 160, 11, 209),
               width: 5,
             ),
-            color: Color.fromARGB(255, 236, 49, 49),
+            color: Color.fromARGB(254, 236, 49, 49),
             borderRadius: BorderRadius.only(
               topLeft: Radius.circular(10),
               topRight: Radius.circular(10),
